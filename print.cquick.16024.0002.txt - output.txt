@@ -1,0 +1,1151 @@
+----- List of reservations which can be rebooked directly. Ordered by most amount of money to be saved. -----
+
+
+1) Res #2297147 - 10 days at $539.0 per day. Book direct at only $485.1 per day and TMR make an extra $388.08. Commission = $43.12
+
+2) Res #2346009 - 9 days at $469.0 per day. Book direct at only $422.1 per day and TMR make an extra $303.93. Commission = $33.77
+
+3) Res #2309550 - 8 days at $519.0 per day. Book direct at only $467.1 per day and TMR make an extra $298.98. Commission = $33.22
+
+4) Res #2237755 - 7 days at $589.0 per day. Book direct at only $530.1 per day and TMR make an extra $296.82. Commission = $32.98
+
+5) Res #2244772 - 6 days at $607.05 per day. Book direct at only $546.35 per day and TMR make an extra $262.26. Commission = $29.14
+
+6) Res #2326968 - 7 days at $503.1 per day. Book direct at only $452.79 per day and TMR make an extra $253.53. Commission = $28.17
+
+7) Res #2331154 - 9 days at $389.0 per day. Book direct at only $350.1 per day and TMR make an extra $252.09. Commission = $28.01
+
+8) Res #2360546 - 7 days at $499.0 per day. Book direct at only $449.1 per day and TMR make an extra $251.46. Commission = $27.94
+
+9) Res #2317514 - 7 days at $499.0 per day. Book direct at only $449.1 per day and TMR make an extra $251.46. Commission = $27.94
+
+10) Res #2316476 - 7 days at $499.0 per day. Book direct at only $449.1 per day and TMR make an extra $251.46. Commission = $27.94
+
+11) Res #2297861 - 9 days at $369.0 per day. Book direct at only $332.1 per day and TMR make an extra $239.13. Commission = $26.57
+
+12) Res #2255230 - 7 days at $474.05 per day. Book direct at only $426.65 per day and TMR make an extra $238.95. Commission = $26.55
+
+13) Res #2221523 - 6 days at $549.0 per day. Book direct at only $494.1 per day and TMR make an extra $237.15. Commission = $26.35
+
+14) Res #2312429 - 7 days at $467.1 per day. Book direct at only $420.39 per day and TMR make an extra $235.44. Commission = $26.16
+
+15) Res #2357329 - 6 days at $539.0 per day. Book direct at only $485.1 per day and TMR make an extra $232.83. Commission = $25.87
+
+16) Res #2356925 - 6 days at $539.0 per day. Book direct at only $485.1 per day and TMR make an extra $232.83. Commission = $25.87
+
+17) Res #2189911 - 6 days at $539.0 per day. Book direct at only $485.1 per day and TMR make an extra $232.83. Commission = $25.87
+
+18) Res #2370362 - 6 days at $519.0 per day. Book direct at only $467.1 per day and TMR make an extra $224.19. Commission = $24.91
+
+19) Res #2361227 - 6 days at $519.0 per day. Book direct at only $467.1 per day and TMR make an extra $224.19. Commission = $24.91
+
+20) Res #2302713 - 6 days at $519.0 per day. Book direct at only $467.1 per day and TMR make an extra $224.19. Commission = $24.91
+
+21) Res #2372274 - 6 days at $499.0 per day. Book direct at only $449.1 per day and TMR make an extra $215.55. Commission = $23.95
+
+22) Res #2302710 - 6 days at $499.0 per day. Book direct at only $449.1 per day and TMR make an extra $215.55. Commission = $23.95
+
+23) Res #2370037 - 7 days at $419.0 per day. Book direct at only $377.1 per day and TMR make an extra $211.14. Commission = $23.46
+
+24) Res #2317623 - 5 days at $569.0 per day. Book direct at only $512.1 per day and TMR make an extra $204.84. Commission = $22.76
+
+25) Res #2245499 - 8 days at $349.0 per day. Book direct at only $314.1 per day and TMR make an extra $201.06. Commission = $22.34
+
+26) Res #2305082 - 5 days at $549.0 per day. Book direct at only $494.1 per day and TMR make an extra $197.64. Commission = $21.96
+
+27) Res #2342098 - 5 days at $548.1 per day. Book direct at only $493.29 per day and TMR make an extra $197.28. Commission = $21.92
+
+28) Res #2352808 - 5 days at $539.0 per day. Book direct at only $485.1 per day and TMR make an extra $194.04. Commission = $21.56
+
+29) Res #2266472 - 5 days at $539.0 per day. Book direct at only $485.1 per day and TMR make an extra $194.04. Commission = $21.56
+
+30) Res #2173813 - 5 days at $539.0 per day. Book direct at only $485.1 per day and TMR make an extra $194.04. Commission = $21.56
+
+31) Res #2251605 - 5 days at $530.1 per day. Book direct at only $477.09 per day and TMR make an extra $190.8. Commission = $21.2
+
+32) Res #2179727 - 5 days at $530.1 per day. Book direct at only $477.09 per day and TMR make an extra $190.8. Commission = $21.2
+
+33) Res #2208321 - 7 days at $369.0 per day. Book direct at only $332.1 per day and TMR make an extra $185.94. Commission = $20.66
+
+34) Res #2265541 - 5 days at $503.1 per day. Book direct at only $452.79 per day and TMR make an extra $181.08. Commission = $20.12
+
+35) Res #2250657 - 8 days at $314.1 per day. Book direct at only $282.69 per day and TMR make an extra $180.9. Commission = $20.1
+
+36) Res #2275748 - 5 days at $499.0 per day. Book direct at only $449.1 per day and TMR make an extra $179.64. Commission = $19.96
+
+37) Res #2280824 - 12 days at $206.1 per day. Book direct at only $185.49 per day and TMR make an extra $178.11. Commission = $19.79
+
+38) Res #2350027 - 5 days at $493.05 per day. Book direct at only $443.75 per day and TMR make an extra $177.48. Commission = $19.72
+
+39) Res #2332921 - 7 days at $350.55 per day. Book direct at only $315.5 per day and TMR make an extra $176.67. Commission = $19.63
+
+40) Res #2245840 - 4 days at $609.0 per day. Book direct at only $548.1 per day and TMR make an extra $175.41. Commission = $19.49
+
+41) Res #2209442 - 4 days at $609.0 per day. Book direct at only $548.1 per day and TMR make an extra $175.41. Commission = $19.49
+
+42) Res #2262161 - 4 days at $599.0 per day. Book direct at only $539.1 per day and TMR make an extra $172.53. Commission = $19.17
+
+43) Res #2130254 - 4 days at $597.55 per day. Book direct at only $537.79 per day and TMR make an extra $172.08. Commission = $19.12
+
+44) Res #2284912 - 4 days at $589.0 per day. Book direct at only $530.1 per day and TMR make an extra $169.65. Commission = $18.85
+
+45) Res #2278178 - 4 days at $589.0 per day. Book direct at only $530.1 per day and TMR make an extra $169.65. Commission = $18.85
+
+46) Res #2316517 - 5 days at $449.1 per day. Book direct at only $404.19 per day and TMR make an extra $161.64. Commission = $17.96
+
+47) Res #2367027 - 5 days at $449.0 per day. Book direct at only $404.1 per day and TMR make an extra $161.64. Commission = $17.96
+
+48) Res #2223713 - 6 days at $369.0 per day. Book direct at only $332.1 per day and TMR make an extra $159.39. Commission = $17.71
+
+49) Res #2332422 - 7 days at $314.1 per day. Book direct at only $282.69 per day and TMR make an extra $158.31. Commission = $17.59
+
+50) Res #2250481 - 7 days at $314.1 per day. Book direct at only $282.69 per day and TMR make an extra $158.31. Commission = $17.59
+
+51) Res #2355181 - 4 days at $549.0 per day. Book direct at only $494.1 per day and TMR make an extra $158.13. Commission = $17.57
+
+52) Res #2250602 - 4 days at $548.1 per day. Book direct at only $493.29 per day and TMR make an extra $157.86. Commission = $17.54
+
+53) Res #2359791 - 7 days at $309.0 per day. Book direct at only $278.1 per day and TMR make an extra $155.7. Commission = $17.3
+
+54) Res #2370092 - 4 days at $539.0 per day. Book direct at only $485.1 per day and TMR make an extra $155.25. Commission = $17.25
+
+55) Res #2349410 - 4 days at $539.0 per day. Book direct at only $485.1 per day and TMR make an extra $155.25. Commission = $17.25
+
+56) Res #2346322 - 4 days at $539.0 per day. Book direct at only $485.1 per day and TMR make an extra $155.25. Commission = $17.25
+
+57) Res #2330482 - 4 days at $539.0 per day. Book direct at only $485.1 per day and TMR make an extra $155.25. Commission = $17.25
+
+58) Res #2310258 - 4 days at $539.0 per day. Book direct at only $485.1 per day and TMR make an extra $155.25. Commission = $17.25
+
+59) Res #2294245 - 4 days at $539.0 per day. Book direct at only $485.1 per day and TMR make an extra $155.25. Commission = $17.25
+
+60) Res #2268000 - 4 days at $539.0 per day. Book direct at only $485.1 per day and TMR make an extra $155.25. Commission = $17.25
+
+61) Res #2265182 - 4 days at $539.0 per day. Book direct at only $485.1 per day and TMR make an extra $155.25. Commission = $17.25
+
+62) Res #2341341 - 4 days at $531.05 per day. Book direct at only $477.94 per day and TMR make an extra $152.91. Commission = $16.99
+
+63) Res #2368941 - 4 days at $530.1 per day. Book direct at only $477.09 per day and TMR make an extra $152.64. Commission = $16.96
+
+64) Res #2280704 - 4 days at $530.1 per day. Book direct at only $477.09 per day and TMR make an extra $152.64. Commission = $16.96
+
+65) Res #2244415 - 4 days at $530.1 per day. Book direct at only $477.09 per day and TMR make an extra $152.64. Commission = $16.96
+
+66) Res #2210368 - 4 days at $530.1 per day. Book direct at only $477.09 per day and TMR make an extra $152.64. Commission = $16.96
+
+67) Res #2151161 - 4 days at $530.1 per day. Book direct at only $477.09 per day and TMR make an extra $152.64. Commission = $16.96
+
+68) Res #2287719 - 3 days at $698.0 per day. Book direct at only $628.2 per day and TMR make an extra $150.75. Commission = $16.75
+
+69) Res #2257888 - 6 days at $349.0 per day. Book direct at only $314.1 per day and TMR make an extra $150.75. Commission = $16.75
+
+70) Res #2235407 - 6 days at $349.0 per day. Book direct at only $314.1 per day and TMR make an extra $150.75. Commission = $16.75
+
+71) Res #2365164 - 4 days at $521.55 per day. Book direct at only $469.39 per day and TMR make an extra $150.21. Commission = $16.69
+
+72) Res #2337861 - 4 days at $519.0 per day. Book direct at only $467.1 per day and TMR make an extra $149.49. Commission = $16.61
+
+73) Res #2290924 - 4 days at $519.0 per day. Book direct at only $467.1 per day and TMR make an extra $149.49. Commission = $16.61
+
+74) Res #2263036 - 4 days at $519.0 per day. Book direct at only $467.1 per day and TMR make an extra $149.49. Commission = $16.61
+
+75) Res #2258049 - 4 days at $519.0 per day. Book direct at only $467.1 per day and TMR make an extra $149.49. Commission = $16.61
+
+76) Res #2302316 - 4 days at $512.1 per day. Book direct at only $460.89 per day and TMR make an extra $147.51. Commission = $16.39
+
+77) Res #2237860 - 4 days at $512.1 per day. Book direct at only $460.89 per day and TMR make an extra $147.51. Commission = $16.39
+
+78) Res #2312048 - 4 days at $512.05 per day. Book direct at only $460.84 per day and TMR make an extra $147.51. Commission = $16.39
+
+79) Res #2304334 - 4 days at $512.05 per day. Book direct at only $460.84 per day and TMR make an extra $147.51. Commission = $16.39
+
+80) Res #2374320 - 4 days at $499.0 per day. Book direct at only $449.1 per day and TMR make an extra $143.73. Commission = $15.97
+
+81) Res #2371587 - 4 days at $499.0 per day. Book direct at only $449.1 per day and TMR make an extra $143.73. Commission = $15.97
+
+82) Res #2363255 - 4 days at $499.0 per day. Book direct at only $449.1 per day and TMR make an extra $143.73. Commission = $15.97
+
+83) Res #2344201 - 4 days at $499.0 per day. Book direct at only $449.1 per day and TMR make an extra $143.73. Commission = $15.97
+
+84) Res #2338975 - 4 days at $499.0 per day. Book direct at only $449.1 per day and TMR make an extra $143.73. Commission = $15.97
+
+85) Res #2298155 - 4 days at $499.0 per day. Book direct at only $449.1 per day and TMR make an extra $143.73. Commission = $15.97
+
+86) Res #2268020 - 4 days at $499.0 per day. Book direct at only $449.1 per day and TMR make an extra $143.73. Commission = $15.97
+
+87) Res #2225352 - 4 days at $499.0 per day. Book direct at only $449.1 per day and TMR make an extra $143.73. Commission = $15.97
+
+88) Res #2225326 - 4 days at $499.0 per day. Book direct at only $449.1 per day and TMR make an extra $143.73. Commission = $15.97
+
+89) Res #2373078 - 4 days at $494.1 per day. Book direct at only $444.69 per day and TMR make an extra $142.29. Commission = $15.81
+
+90) Res #2315841 - 4 days at $494.1 per day. Book direct at only $444.69 per day and TMR make an extra $142.29. Commission = $15.81
+
+91) Res #2255662 - 4 days at $494.1 per day. Book direct at only $444.69 per day and TMR make an extra $142.29. Commission = $15.81
+
+92) Res #2296157 - 4 days at $493.05 per day. Book direct at only $443.75 per day and TMR make an extra $142.02. Commission = $15.78
+
+93) Res #2370043 - 7 days at $279.0 per day. Book direct at only $251.1 per day and TMR make an extra $140.58. Commission = $15.62
+
+94) Res #2317620 - 5 days at $389.0 per day. Book direct at only $350.1 per day and TMR make an extra $140.04. Commission = $15.56
+
+95) Res #2154056 - 3 days at $639.0 per day. Book direct at only $575.1 per day and TMR make an extra $138.06. Commission = $15.34
+
+96) Res #2358876 - 4 days at $479.0 per day. Book direct at only $431.1 per day and TMR make an extra $137.97. Commission = $15.33
+
+97) Res #2314883 - 4 days at $479.0 per day. Book direct at only $431.1 per day and TMR make an extra $137.97. Commission = $15.33
+
+98) Res #2331316 - 4 days at $474.05 per day. Book direct at only $426.65 per day and TMR make an extra $136.53. Commission = $15.17
+
+99) Res #2330299 - 4 days at $474.05 per day. Book direct at only $426.65 per day and TMR make an extra $136.53. Commission = $15.17
+
+100) Res #2252081 - 4 days at $474.05 per day. Book direct at only $426.65 per day and TMR make an extra $136.53. Commission = $15.17
+
+101) Res #2227340 - 3 days at $629.0 per day. Book direct at only $566.1 per day and TMR make an extra $135.9. Commission = $15.1
+
+102) Res #2212463 - 6 days at $314.1 per day. Book direct at only $282.69 per day and TMR make an extra $135.72. Commission = $15.08
+
+103) Res #2251530 - 3 days at $609.0 per day. Book direct at only $548.1 per day and TMR make an extra $131.58. Commission = $14.62
+
+104) Res #2359471 - 3 days at $589.0 per day. Book direct at only $530.1 per day and TMR make an extra $127.26. Commission = $14.14
+
+105) Res #2149897 - 3 days at $589.0 per day. Book direct at only $530.1 per day and TMR make an extra $127.26. Commission = $14.14
+
+106) Res #2314880 - 4 days at $439.0 per day. Book direct at only $395.1 per day and TMR make an extra $126.45. Commission = $14.05
+
+107) Res #2310363 - 5 days at $349.0 per day. Book direct at only $314.1 per day and TMR make an extra $125.64. Commission = $13.96
+
+108) Res #2295148 - 5 days at $349.0 per day. Book direct at only $314.1 per day and TMR make an extra $125.64. Commission = $13.96
+
+109) Res #2253864 - 5 days at $349.0 per day. Book direct at only $314.1 per day and TMR make an extra $125.64. Commission = $13.96
+
+110) Res #2253671 - 5 days at $349.0 per day. Book direct at only $314.1 per day and TMR make an extra $125.64. Commission = $13.96
+
+111) Res #2226533 - 5 days at $349.0 per day. Book direct at only $314.1 per day and TMR make an extra $125.64. Commission = $13.96
+
+112) Res #2333881 - 7 days at $249.0 per day. Book direct at only $224.1 per day and TMR make an extra $125.46. Commission = $13.94
+
+113) Res #2372103 - 3 days at $579.0 per day. Book direct at only $521.1 per day and TMR make an extra $125.1. Commission = $13.9
+
+114) Res #2364475 - 3 days at $579.0 per day. Book direct at only $521.1 per day and TMR make an extra $125.1. Commission = $13.9
+
+115) Res #2347866 - 3 days at $579.0 per day. Book direct at only $521.1 per day and TMR make an extra $125.1. Commission = $13.9
+
+116) Res #2347858 - 3 days at $579.0 per day. Book direct at only $521.1 per day and TMR make an extra $125.1. Commission = $13.9
+
+117) Res #2247906 - 3 days at $579.0 per day. Book direct at only $521.1 per day and TMR make an extra $125.1. Commission = $13.9
+
+118) Res #2247905 - 3 days at $579.0 per day. Book direct at only $521.1 per day and TMR make an extra $125.1. Commission = $13.9
+
+119) Res #2184955 - 3 days at $569.0 per day. Book direct at only $512.1 per day and TMR make an extra $122.94. Commission = $13.66
+
+120) Res #2214898 - 3 days at $559.55 per day. Book direct at only $503.59 per day and TMR make an extra $120.87. Commission = $13.43
+
+121) Res #2357833 - 3 days at $559.0 per day. Book direct at only $503.1 per day and TMR make an extra $120.78. Commission = $13.42
+
+122) Res #2357338 - 3 days at $559.0 per day. Book direct at only $503.1 per day and TMR make an extra $120.78. Commission = $13.42
+
+123) Res #2354317 - 3 days at $559.0 per day. Book direct at only $503.1 per day and TMR make an extra $120.78. Commission = $13.42
+
+124) Res #2345856 - 3 days at $559.0 per day. Book direct at only $503.1 per day and TMR make an extra $120.78. Commission = $13.42
+
+125) Res #2343400 - 3 days at $559.0 per day. Book direct at only $503.1 per day and TMR make an extra $120.78. Commission = $13.42
+
+126) Res #2331066 - 3 days at $559.0 per day. Book direct at only $503.1 per day and TMR make an extra $120.78. Commission = $13.42
+
+127) Res #2325686 - 3 days at $559.0 per day. Book direct at only $503.1 per day and TMR make an extra $120.78. Commission = $13.42
+
+128) Res #2324188 - 3 days at $559.0 per day. Book direct at only $503.1 per day and TMR make an extra $120.78. Commission = $13.42
+
+129) Res #2261446 - 3 days at $559.0 per day. Book direct at only $503.1 per day and TMR make an extra $120.78. Commission = $13.42
+
+130) Res #2229957 - 3 days at $559.0 per day. Book direct at only $503.1 per day and TMR make an extra $120.78. Commission = $13.42
+
+131) Res #2355364 - 4 days at $419.0 per day. Book direct at only $377.1 per day and TMR make an extra $120.69. Commission = $13.41
+
+132) Res #2282926 - 3 days at $550.05 per day. Book direct at only $495.04 per day and TMR make an extra $118.8. Commission = $13.2
+
+133) Res #2371214 - 3 days at $549.0 per day. Book direct at only $494.1 per day and TMR make an extra $118.62. Commission = $13.18
+
+134) Res #2353610 - 3 days at $549.0 per day. Book direct at only $494.1 per day and TMR make an extra $118.62. Commission = $13.18
+
+135) Res #2284894 - 3 days at $549.0 per day. Book direct at only $494.1 per day and TMR make an extra $118.62. Commission = $13.18
+
+136) Res #2283097 - 3 days at $549.0 per day. Book direct at only $494.1 per day and TMR make an extra $118.62. Commission = $13.18
+
+137) Res #2234559 - 3 days at $549.0 per day. Book direct at only $494.1 per day and TMR make an extra $118.62. Commission = $13.18
+
+138) Res #2234546 - 3 days at $549.0 per day. Book direct at only $494.1 per day and TMR make an extra $118.62. Commission = $13.18
+
+139) Res #2375169 - 3 days at $548.1 per day. Book direct at only $493.29 per day and TMR make an extra $118.35. Commission = $13.15
+
+140) Res #2342115 - 3 days at $548.1 per day. Book direct at only $493.29 per day and TMR make an extra $118.35. Commission = $13.15
+
+141) Res #2313195 - 3 days at $548.1 per day. Book direct at only $493.29 per day and TMR make an extra $118.35. Commission = $13.15
+
+142) Res #2140231 - 3 days at $540.55 per day. Book direct at only $486.49 per day and TMR make an extra $116.73. Commission = $12.97
+
+143) Res #2375285 - 3 days at $539.0 per day. Book direct at only $485.1 per day and TMR make an extra $116.46. Commission = $12.94
+
+144) Res #2373750 - 3 days at $539.0 per day. Book direct at only $485.1 per day and TMR make an extra $116.46. Commission = $12.94
+
+145) Res #2369504 - 3 days at $539.0 per day. Book direct at only $485.1 per day and TMR make an extra $116.46. Commission = $12.94
+
+146) Res #2360749 - 3 days at $539.0 per day. Book direct at only $485.1 per day and TMR make an extra $116.46. Commission = $12.94
+
+147) Res #2335166 - 3 days at $539.0 per day. Book direct at only $485.1 per day and TMR make an extra $116.46. Commission = $12.94
+
+148) Res #2323061 - 3 days at $539.0 per day. Book direct at only $485.1 per day and TMR make an extra $116.46. Commission = $12.94
+
+149) Res #2285151 - 3 days at $539.0 per day. Book direct at only $485.1 per day and TMR make an extra $116.46. Commission = $12.94
+
+150) Res #2281805 - 3 days at $539.0 per day. Book direct at only $485.1 per day and TMR make an extra $116.46. Commission = $12.94
+
+151) Res #2264129 - 3 days at $539.0 per day. Book direct at only $485.1 per day and TMR make an extra $116.46. Commission = $12.94
+
+152) Res #2254588 - 3 days at $539.0 per day. Book direct at only $485.1 per day and TMR make an extra $116.46. Commission = $12.94
+
+153) Res #2233448 - 3 days at $539.0 per day. Book direct at only $485.1 per day and TMR make an extra $116.46. Commission = $12.94
+
+154) Res #2229272 - 3 days at $539.0 per day. Book direct at only $485.1 per day and TMR make an extra $116.46. Commission = $12.94
+
+155) Res #2227906 - 3 days at $539.0 per day. Book direct at only $485.1 per day and TMR make an extra $116.46. Commission = $12.94
+
+156) Res #2227593 - 3 days at $539.0 per day. Book direct at only $485.1 per day and TMR make an extra $116.46. Commission = $12.94
+
+157) Res #2179874 - 3 days at $539.0 per day. Book direct at only $485.1 per day and TMR make an extra $116.46. Commission = $12.94
+
+158) Res #2163442 - 3 days at $539.0 per day. Book direct at only $485.1 per day and TMR make an extra $116.46. Commission = $12.94
+
+159) Res #2163099 - 3 days at $539.0 per day. Book direct at only $485.1 per day and TMR make an extra $116.46. Commission = $12.94
+
+160) Res #2362819 - 4 days at $399.0 per day. Book direct at only $359.1 per day and TMR make an extra $114.93. Commission = $12.77
+
+161) Res #2329160 - 3 days at $530.1 per day. Book direct at only $477.09 per day and TMR make an extra $114.48. Commission = $12.72
+
+162) Res #2311175 - 3 days at $530.1 per day. Book direct at only $477.09 per day and TMR make an extra $114.48. Commission = $12.72
+
+163) Res #2278987 - 3 days at $530.1 per day. Book direct at only $477.09 per day and TMR make an extra $114.48. Commission = $12.72
+
+164) Res #2247544 - 3 days at $530.1 per day. Book direct at only $477.09 per day and TMR make an extra $114.48. Commission = $12.72
+
+165) Res #2315038 - 5 days at $314.1 per day. Book direct at only $282.69 per day and TMR make an extra $113.04. Commission = $12.56
+
+166) Res #2256965 - 5 days at $314.1 per day. Book direct at only $282.69 per day and TMR make an extra $113.04. Commission = $12.56
+
+167) Res #2253435 - 5 days at $314.1 per day. Book direct at only $282.69 per day and TMR make an extra $113.04. Commission = $12.56
+
+168) Res #2214085 - 5 days at $314.1 per day. Book direct at only $282.69 per day and TMR make an extra $113.04. Commission = $12.56
+
+169) Res #2211703 - 5 days at $314.1 per day. Book direct at only $282.69 per day and TMR make an extra $113.04. Commission = $12.56
+
+170) Res #2347023 - 3 days at $519.0 per day. Book direct at only $467.1 per day and TMR make an extra $112.14. Commission = $12.46
+
+171) Res #2330810 - 3 days at $519.0 per day. Book direct at only $467.1 per day and TMR make an extra $112.14. Commission = $12.46
+
+172) Res #2309776 - 3 days at $519.0 per day. Book direct at only $467.1 per day and TMR make an extra $112.14. Commission = $12.46
+
+173) Res #2300566 - 3 days at $519.0 per day. Book direct at only $467.1 per day and TMR make an extra $112.14. Commission = $12.46
+
+174) Res #2266934 - 3 days at $519.0 per day. Book direct at only $467.1 per day and TMR make an extra $112.14. Commission = $12.46
+
+175) Res #2236398 - 3 days at $519.0 per day. Book direct at only $467.1 per day and TMR make an extra $112.14. Commission = $12.46
+
+176) Res #2131433 - 3 days at $512.1 per day. Book direct at only $460.89 per day and TMR make an extra $110.61. Commission = $12.29
+
+177) Res #2289052 - 3 days at $512.05 per day. Book direct at only $460.84 per day and TMR make an extra $110.61. Commission = $12.29
+
+178) Res #2255793 - 9 days at $169.0 per day. Book direct at only $152.1 per day and TMR make an extra $109.53. Commission = $12.17
+
+179) Res #2089833 - 3 days at $503.1 per day. Book direct at only $452.79 per day and TMR make an extra $108.63. Commission = $12.07
+
+180) Res #2364944 - 3 days at $499.0 per day. Book direct at only $449.1 per day and TMR make an extra $107.82. Commission = $11.98
+
+181) Res #2361818 - 3 days at $499.0 per day. Book direct at only $449.1 per day and TMR make an extra $107.82. Commission = $11.98
+
+182) Res #2342576 - 3 days at $499.0 per day. Book direct at only $449.1 per day and TMR make an extra $107.82. Commission = $11.98
+
+183) Res #2341403 - 3 days at $499.0 per day. Book direct at only $449.1 per day and TMR make an extra $107.82. Commission = $11.98
+
+184) Res #2320473 - 3 days at $499.0 per day. Book direct at only $449.1 per day and TMR make an extra $107.82. Commission = $11.98
+
+185) Res #2318209 - 3 days at $499.0 per day. Book direct at only $449.1 per day and TMR make an extra $107.82. Commission = $11.98
+
+186) Res #2304336 - 3 days at $499.0 per day. Book direct at only $449.1 per day and TMR make an extra $107.82. Commission = $11.98
+
+187) Res #2304206 - 3 days at $499.0 per day. Book direct at only $449.1 per day and TMR make an extra $107.82. Commission = $11.98
+
+188) Res #2296060 - 3 days at $499.0 per day. Book direct at only $449.1 per day and TMR make an extra $107.82. Commission = $11.98
+
+189) Res #2277824 - 3 days at $499.0 per day. Book direct at only $449.1 per day and TMR make an extra $107.82. Commission = $11.98
+
+190) Res #2261302 - 3 days at $499.0 per day. Book direct at only $449.1 per day and TMR make an extra $107.82. Commission = $11.98
+
+191) Res #2270665 - 10 days at $149.0 per day. Book direct at only $134.1 per day and TMR make an extra $107.28. Commission = $11.92
+
+192) Res #2360879 - 3 days at $494.1 per day. Book direct at only $444.69 per day and TMR make an extra $106.74. Commission = $11.86
+
+193) Res #2296786 - 3 days at $494.1 per day. Book direct at only $444.69 per day and TMR make an extra $106.74. Commission = $11.86
+
+194) Res #2352788 - 4 days at $369.0 per day. Book direct at only $332.1 per day and TMR make an extra $106.29. Commission = $11.81
+
+195) Res #2348896 - 4 days at $369.0 per day. Book direct at only $332.1 per day and TMR make an extra $106.29. Commission = $11.81
+
+196) Res #2232287 - 4 days at $369.0 per day. Book direct at only $332.1 per day and TMR make an extra $106.29. Commission = $11.81
+
+197) Res #2302117 - 3 days at $476.1 per day. Book direct at only $428.49 per day and TMR make an extra $102.87. Commission = $11.43
+
+198) Res #2222868 - 3 days at $476.1 per day. Book direct at only $428.49 per day and TMR make an extra $102.87. Commission = $11.43
+
+199) Res #2230935 - 3 days at $474.05 per day. Book direct at only $426.65 per day and TMR make an extra $102.42. Commission = $11.38
+
+200) Res #2352769 - 4 days at $349.0 per day. Book direct at only $314.1 per day and TMR make an extra $100.53. Commission = $11.17
+
+201) Res #2333965 - 4 days at $349.0 per day. Book direct at only $314.1 per day and TMR make an extra $100.53. Commission = $11.17
+
+202) Res #2309556 - 4 days at $349.0 per day. Book direct at only $314.1 per day and TMR make an extra $100.53. Commission = $11.17
+
+203) Res #2300435 - 4 days at $349.0 per day. Book direct at only $314.1 per day and TMR make an extra $100.53. Commission = $11.17
+
+204) Res #2287682 - 4 days at $349.0 per day. Book direct at only $314.1 per day and TMR make an extra $100.53. Commission = $11.17
+
+205) Res #2248525 - 4 days at $349.0 per day. Book direct at only $314.1 per day and TMR make an extra $100.53. Commission = $11.17
+
+206) Res #2247510 - 4 days at $349.0 per day. Book direct at only $314.1 per day and TMR make an extra $100.53. Commission = $11.17
+
+207) Res #2209445 - 4 days at $349.0 per day. Book direct at only $314.1 per day and TMR make an extra $100.53. Commission = $11.17
+
+208) Res #2342384 - 3 days at $459.0 per day. Book direct at only $413.1 per day and TMR make an extra $99.18. Commission = $11.02
+
+209) Res #2287399 - 3 days at $449.0 per day. Book direct at only $404.1 per day and TMR make an extra $97.02. Commission = $10.78
+
+210) Res #2228375 - 4 days at $332.1 per day. Book direct at only $298.89 per day and TMR make an extra $95.67. Commission = $10.63
+
+211) Res #2148773 - 4 days at $332.1 per day. Book direct at only $298.89 per day and TMR make an extra $95.67. Commission = $10.63
+
+212) Res #2341027 - 4 days at $331.55 per day. Book direct at only $298.4 per day and TMR make an extra $95.49. Commission = $10.61
+
+213) Res #2302692 - 4 days at $331.55 per day. Book direct at only $298.4 per day and TMR make an extra $95.49. Commission = $10.61
+
+214) Res #2275550 - 4 days at $331.55 per day. Book direct at only $298.4 per day and TMR make an extra $95.49. Commission = $10.61
+
+215) Res #2361729 - 3 days at $440.1 per day. Book direct at only $396.09 per day and TMR make an extra $95.04. Commission = $10.56
+
+216) Res #2250652 - 3 days at $440.1 per day. Book direct at only $396.09 per day and TMR make an extra $95.04. Commission = $10.56
+
+217) Res #2322327 - 3 days at $439.0 per day. Book direct at only $395.1 per day and TMR make an extra $94.86. Commission = $10.54
+
+218) Res #2322323 - 3 days at $439.0 per day. Book direct at only $395.1 per day and TMR make an extra $94.86. Commission = $10.54
+
+219) Res #2321814 - 3 days at $439.0 per day. Book direct at only $395.1 per day and TMR make an extra $94.86. Commission = $10.54
+
+220) Res #2212087 - 4 days at $319.0 per day. Book direct at only $287.1 per day and TMR make an extra $91.89. Commission = $10.21
+
+221) Res #2259277 - 2 days at $629.0 per day. Book direct at only $566.1 per day and TMR make an extra $90.54. Commission = $10.06
+
+222) Res #2258184 - 2 days at $629.0 per day. Book direct at only $566.1 per day and TMR make an extra $90.54. Commission = $10.06
+
+223) Res #2236211 - 2 days at $629.0 per day. Book direct at only $566.1 per day and TMR make an extra $90.54. Commission = $10.06
+
+224) Res #2236209 - 2 days at $629.0 per day. Book direct at only $566.1 per day and TMR make an extra $90.54. Commission = $10.06
+
+225) Res #2358880 - 3 days at $419.0 per day. Book direct at only $377.1 per day and TMR make an extra $90.54. Commission = $10.06
+
+226) Res #2362616 - 4 days at $314.1 per day. Book direct at only $282.69 per day and TMR make an extra $90.45. Commission = $10.05
+
+227) Res #2343909 - 4 days at $314.1 per day. Book direct at only $282.69 per day and TMR make an extra $90.45. Commission = $10.05
+
+228) Res #2320620 - 4 days at $314.1 per day. Book direct at only $282.69 per day and TMR make an extra $90.45. Commission = $10.05
+
+229) Res #2319425 - 4 days at $314.1 per day. Book direct at only $282.69 per day and TMR make an extra $90.45. Commission = $10.05
+
+230) Res #2312714 - 4 days at $314.1 per day. Book direct at only $282.69 per day and TMR make an extra $90.45. Commission = $10.05
+
+231) Res #2307252 - 4 days at $314.1 per day. Book direct at only $282.69 per day and TMR make an extra $90.45. Commission = $10.05
+
+232) Res #2280700 - 4 days at $314.1 per day. Book direct at only $282.69 per day and TMR make an extra $90.45. Commission = $10.05
+
+233) Res #2248341 - 4 days at $314.1 per day. Book direct at only $282.69 per day and TMR make an extra $90.45. Commission = $10.05
+
+234) Res #2244820 - 4 days at $314.1 per day. Book direct at only $282.69 per day and TMR make an extra $90.45. Commission = $10.05
+
+235) Res #2203250 - 4 days at $314.1 per day. Book direct at only $282.69 per day and TMR make an extra $90.45. Commission = $10.05
+
+236) Res #2117770 - 4 days at $314.1 per day. Book direct at only $282.69 per day and TMR make an extra $90.45. Commission = $10.05
+
+237) Res #2270845 - 4 days at $313.65 per day. Book direct at only $282.28 per day and TMR make an extra $90.36. Commission = $10.04
+
+238) Res #2249831 - 4 days at $313.65 per day. Book direct at only $282.28 per day and TMR make an extra $90.36. Commission = $10.04
+
+239) Res #2229060 - 2 days at $619.0 per day. Book direct at only $557.1 per day and TMR make an extra $89.1. Commission = $9.9
+
+240) Res #2274824 - 2 days at $609.0 per day. Book direct at only $548.1 per day and TMR make an extra $87.66. Commission = $9.74
+
+241) Res #2323169 - 4 days at $303.25 per day. Book direct at only $272.93 per day and TMR make an extra $87.3. Commission = $9.7
+
+242) Res #2286091 - 2 days at $599.0 per day. Book direct at only $539.1 per day and TMR make an extra $86.22. Commission = $9.58
+
+243) Res #2364020 - 3 days at $398.05 per day. Book direct at only $358.25 per day and TMR make an extra $85.95. Commission = $9.55
+
+244) Res #2304978 - 2 days at $589.0 per day. Book direct at only $530.1 per day and TMR make an extra $84.78. Commission = $9.42
+
+245) Res #2375414 - 2 days at $579.0 per day. Book direct at only $521.1 per day and TMR make an extra $83.34. Commission = $9.26
+
+246) Res #2354277 - 2 days at $579.0 per day. Book direct at only $521.1 per day and TMR make an extra $83.34. Commission = $9.26
+
+247) Res #2341336 - 2 days at $579.0 per day. Book direct at only $521.1 per day and TMR make an extra $83.34. Commission = $9.26
+
+248) Res #2341335 - 2 days at $579.0 per day. Book direct at only $521.1 per day and TMR make an extra $83.34. Commission = $9.26
+
+249) Res #2341323 - 2 days at $579.0 per day. Book direct at only $521.1 per day and TMR make an extra $83.34. Commission = $9.26
+
+250) Res #2331770 - 2 days at $579.0 per day. Book direct at only $521.1 per day and TMR make an extra $83.34. Commission = $9.26
+
+251) Res #2299339 - 2 days at $579.0 per day. Book direct at only $521.1 per day and TMR make an extra $83.34. Commission = $9.26
+
+252) Res #2296151 - 2 days at $579.0 per day. Book direct at only $521.1 per day and TMR make an extra $83.34. Commission = $9.26
+
+253) Res #2281672 - 2 days at $579.0 per day. Book direct at only $521.1 per day and TMR make an extra $83.34. Commission = $9.26
+
+254) Res #2281425 - 2 days at $579.0 per day. Book direct at only $521.1 per day and TMR make an extra $83.34. Commission = $9.26
+
+255) Res #2277818 - 2 days at $579.0 per day. Book direct at only $521.1 per day and TMR make an extra $83.34. Commission = $9.26
+
+256) Res #2268023 - 2 days at $579.0 per day. Book direct at only $521.1 per day and TMR make an extra $83.34. Commission = $9.26
+
+257) Res #2259444 - 2 days at $579.0 per day. Book direct at only $521.1 per day and TMR make an extra $83.34. Commission = $9.26
+
+258) Res #2226935 - 2 days at $579.0 per day. Book direct at only $521.1 per day and TMR make an extra $83.34. Commission = $9.26
+
+259) Res #2226933 - 2 days at $579.0 per day. Book direct at only $521.1 per day and TMR make an extra $83.34. Commission = $9.26
+
+260) Res #2216709 - 2 days at $579.0 per day. Book direct at only $521.1 per day and TMR make an extra $83.34. Commission = $9.26
+
+261) Res #2369776 - 2 days at $566.1 per day. Book direct at only $509.49 per day and TMR make an extra $81.54. Commission = $9.06
+
+262) Res #2287662 - 2 days at $566.1 per day. Book direct at only $509.49 per day and TMR make an extra $81.54. Commission = $9.06
+
+263) Res #2244423 - 2 days at $566.1 per day. Book direct at only $509.49 per day and TMR make an extra $81.54. Commission = $9.06
+
+264) Res #2365804 - 2 days at $559.0 per day. Book direct at only $503.1 per day and TMR make an extra $80.46. Commission = $8.94
+
+265) Res #2331476 - 2 days at $559.0 per day. Book direct at only $503.1 per day and TMR make an extra $80.46. Commission = $8.94
+
+266) Res #2310786 - 2 days at $559.0 per day. Book direct at only $503.1 per day and TMR make an extra $80.46. Commission = $8.94
+
+267) Res #2308058 - 2 days at $559.0 per day. Book direct at only $503.1 per day and TMR make an extra $80.46. Commission = $8.94
+
+268) Res #2304218 - 2 days at $559.0 per day. Book direct at only $503.1 per day and TMR make an extra $80.46. Commission = $8.94
+
+269) Res #2277068 - 2 days at $559.0 per day. Book direct at only $503.1 per day and TMR make an extra $80.46. Commission = $8.94
+
+270) Res #2262855 - 2 days at $559.0 per day. Book direct at only $503.1 per day and TMR make an extra $80.46. Commission = $8.94
+
+271) Res #2369641 - 4 days at $279.0 per day. Book direct at only $251.1 per day and TMR make an extra $80.37. Commission = $8.93
+
+272) Res #2368559 - 3 days at $369.0 per day. Book direct at only $332.1 per day and TMR make an extra $79.74. Commission = $8.86
+
+273) Res #2365932 - 2 days at $550.05 per day. Book direct at only $495.04 per day and TMR make an extra $79.2. Commission = $8.8
+
+274) Res #2362943 - 2 days at $550.05 per day. Book direct at only $495.04 per day and TMR make an extra $79.2. Commission = $8.8
+
+275) Res #2304160 - 2 days at $549.0 per day. Book direct at only $494.1 per day and TMR make an extra $79.02. Commission = $8.78
+
+276) Res #2303173 - 2 days at $549.0 per day. Book direct at only $494.1 per day and TMR make an extra $79.02. Commission = $8.78
+
+277) Res #2347772 - 2 days at $548.1 per day. Book direct at only $493.29 per day and TMR make an extra $78.93. Commission = $8.77
+
+278) Res #2374746 - 2 days at $539.0 per day. Book direct at only $485.1 per day and TMR make an extra $77.58. Commission = $8.62
+
+279) Res #2374412 - 2 days at $539.0 per day. Book direct at only $485.1 per day and TMR make an extra $77.58. Commission = $8.62
+
+280) Res #2374127 - 2 days at $539.0 per day. Book direct at only $485.1 per day and TMR make an extra $77.58. Commission = $8.62
+
+281) Res #2372413 - 2 days at $539.0 per day. Book direct at only $485.1 per day and TMR make an extra $77.58. Commission = $8.62
+
+282) Res #2370229 - 2 days at $539.0 per day. Book direct at only $485.1 per day and TMR make an extra $77.58. Commission = $8.62
+
+283) Res #2365593 - 2 days at $539.0 per day. Book direct at only $485.1 per day and TMR make an extra $77.58. Commission = $8.62
+
+284) Res #2358893 - 2 days at $539.0 per day. Book direct at only $485.1 per day and TMR make an extra $77.58. Commission = $8.62
+
+285) Res #2334119 - 2 days at $539.0 per day. Book direct at only $485.1 per day and TMR make an extra $77.58. Commission = $8.62
+
+286) Res #2333740 - 2 days at $539.0 per day. Book direct at only $485.1 per day and TMR make an extra $77.58. Commission = $8.62
+
+287) Res #2328033 - 2 days at $539.0 per day. Book direct at only $485.1 per day and TMR make an extra $77.58. Commission = $8.62
+
+288) Res #2315335 - 2 days at $539.0 per day. Book direct at only $485.1 per day and TMR make an extra $77.58. Commission = $8.62
+
+289) Res #2310956 - 2 days at $539.0 per day. Book direct at only $485.1 per day and TMR make an extra $77.58. Commission = $8.62
+
+290) Res #2309540 - 2 days at $539.0 per day. Book direct at only $485.1 per day and TMR make an extra $77.58. Commission = $8.62
+
+291) Res #2307285 - 2 days at $539.0 per day. Book direct at only $485.1 per day and TMR make an extra $77.58. Commission = $8.62
+
+292) Res #2293978 - 2 days at $539.0 per day. Book direct at only $485.1 per day and TMR make an extra $77.58. Commission = $8.62
+
+293) Res #2293143 - 2 days at $539.0 per day. Book direct at only $485.1 per day and TMR make an extra $77.58. Commission = $8.62
+
+294) Res #2281670 - 2 days at $539.0 per day. Book direct at only $485.1 per day and TMR make an extra $77.58. Commission = $8.62
+
+295) Res #2281669 - 2 days at $539.0 per day. Book direct at only $485.1 per day and TMR make an extra $77.58. Commission = $8.62
+
+296) Res #2246405 - 2 days at $539.0 per day. Book direct at only $485.1 per day and TMR make an extra $77.58. Commission = $8.62
+
+297) Res #2244560 - 2 days at $539.0 per day. Book direct at only $485.1 per day and TMR make an extra $77.58. Commission = $8.62
+
+298) Res #2244351 - 2 days at $539.0 per day. Book direct at only $485.1 per day and TMR make an extra $77.58. Commission = $8.62
+
+299) Res #2244101 - 2 days at $539.0 per day. Book direct at only $485.1 per day and TMR make an extra $77.58. Commission = $8.62
+
+300) Res #2239807 - 2 days at $539.0 per day. Book direct at only $485.1 per day and TMR make an extra $77.58. Commission = $8.62
+
+301) Res #2236213 - 2 days at $539.0 per day. Book direct at only $485.1 per day and TMR make an extra $77.58. Commission = $8.62
+
+302) Res #2236212 - 2 days at $539.0 per day. Book direct at only $485.1 per day and TMR make an extra $77.58. Commission = $8.62
+
+303) Res #2163428 - 2 days at $539.0 per day. Book direct at only $485.1 per day and TMR make an extra $77.58. Commission = $8.62
+
+304) Res #2150804 - 2 days at $539.0 per day. Book direct at only $485.1 per day and TMR make an extra $77.58. Commission = $8.62
+
+305) Res #2371927 - 4 days at $269.1 per day. Book direct at only $242.19 per day and TMR make an extra $77.49. Commission = $8.61
+
+306) Res #2280441 - 2 days at $531.05 per day. Book direct at only $477.94 per day and TMR make an extra $76.5. Commission = $8.5
+
+307) Res #2370725 - 2 days at $530.1 per day. Book direct at only $477.09 per day and TMR make an extra $76.32. Commission = $8.48
+
+308) Res #2369499 - 2 days at $530.1 per day. Book direct at only $477.09 per day and TMR make an extra $76.32. Commission = $8.48
+
+309) Res #2368282 - 2 days at $530.1 per day. Book direct at only $477.09 per day and TMR make an extra $76.32. Commission = $8.48
+
+310) Res #2299353 - 2 days at $530.1 per day. Book direct at only $477.09 per day and TMR make an extra $76.32. Commission = $8.48
+
+311) Res #2290852 - 2 days at $530.1 per day. Book direct at only $477.09 per day and TMR make an extra $76.32. Commission = $8.48
+
+312) Res #2277862 - 2 days at $530.1 per day. Book direct at only $477.09 per day and TMR make an extra $76.32. Commission = $8.48
+
+313) Res #2277854 - 2 days at $530.1 per day. Book direct at only $477.09 per day and TMR make an extra $76.32. Commission = $8.48
+
+314) Res #2274125 - 2 days at $530.1 per day. Book direct at only $477.09 per day and TMR make an extra $76.32. Commission = $8.48
+
+315) Res #2268790 - 2 days at $530.1 per day. Book direct at only $477.09 per day and TMR make an extra $76.32. Commission = $8.48
+
+316) Res #2268746 - 2 days at $530.1 per day. Book direct at only $477.09 per day and TMR make an extra $76.32. Commission = $8.48
+
+317) Res #2258982 - 2 days at $530.1 per day. Book direct at only $477.09 per day and TMR make an extra $76.32. Commission = $8.48
+
+318) Res #2254221 - 2 days at $530.1 per day. Book direct at only $477.09 per day and TMR make an extra $76.32. Commission = $8.48
+
+319) Res #2246435 - 2 days at $530.1 per day. Book direct at only $477.09 per day and TMR make an extra $76.32. Commission = $8.48
+
+320) Res #2239678 - 2 days at $530.1 per day. Book direct at only $477.09 per day and TMR make an extra $76.32. Commission = $8.48
+
+321) Res #2234544 - 2 days at $530.1 per day. Book direct at only $477.09 per day and TMR make an extra $76.32. Commission = $8.48
+
+322) Res #2226937 - 2 days at $530.1 per day. Book direct at only $477.09 per day and TMR make an extra $76.32. Commission = $8.48
+
+323) Res #2218349 - 2 days at $530.1 per day. Book direct at only $477.09 per day and TMR make an extra $76.32. Commission = $8.48
+
+324) Res #2368089 - 3 days at $350.55 per day. Book direct at only $315.5 per day and TMR make an extra $75.69. Commission = $8.41
+
+325) Res #2330805 - 3 days at $349.0 per day. Book direct at only $314.1 per day and TMR make an extra $75.42. Commission = $8.38
+
+326) Res #2302706 - 3 days at $349.0 per day. Book direct at only $314.1 per day and TMR make an extra $75.42. Commission = $8.38
+
+327) Res #2301063 - 3 days at $349.0 per day. Book direct at only $314.1 per day and TMR make an extra $75.42. Commission = $8.38
+
+328) Res #2287571 - 3 days at $349.0 per day. Book direct at only $314.1 per day and TMR make an extra $75.42. Commission = $8.38
+
+329) Res #2286224 - 3 days at $349.0 per day. Book direct at only $314.1 per day and TMR make an extra $75.42. Commission = $8.38
+
+330) Res #2281422 - 3 days at $349.0 per day. Book direct at only $314.1 per day and TMR make an extra $75.42. Commission = $8.38
+
+331) Res #2281420 - 3 days at $349.0 per day. Book direct at only $314.1 per day and TMR make an extra $75.42. Commission = $8.38
+
+332) Res #2281342 - 3 days at $349.0 per day. Book direct at only $314.1 per day and TMR make an extra $75.42. Commission = $8.38
+
+333) Res #2266068 - 3 days at $349.0 per day. Book direct at only $314.1 per day and TMR make an extra $75.42. Commission = $8.38
+
+334) Res #2262843 - 3 days at $349.0 per day. Book direct at only $314.1 per day and TMR make an extra $75.42. Commission = $8.38
+
+335) Res #2253039 - 3 days at $349.0 per day. Book direct at only $314.1 per day and TMR make an extra $75.42. Commission = $8.38
+
+336) Res #2251566 - 3 days at $349.0 per day. Book direct at only $314.1 per day and TMR make an extra $75.42. Commission = $8.38
+
+337) Res #2248427 - 3 days at $349.0 per day. Book direct at only $314.1 per day and TMR make an extra $75.42. Commission = $8.38
+
+338) Res #2233449 - 3 days at $349.0 per day. Book direct at only $314.1 per day and TMR make an extra $75.42. Commission = $8.38
+
+339) Res #2369922 - 2 days at $519.0 per day. Book direct at only $467.1 per day and TMR make an extra $74.7. Commission = $8.3
+
+340) Res #2369439 - 2 days at $519.0 per day. Book direct at only $467.1 per day and TMR make an extra $74.7. Commission = $8.3
+
+341) Res #2352130 - 2 days at $519.0 per day. Book direct at only $467.1 per day and TMR make an extra $74.7. Commission = $8.3
+
+342) Res #2333738 - 2 days at $519.0 per day. Book direct at only $467.1 per day and TMR make an extra $74.7. Commission = $8.3
+
+343) Res #2300028 - 2 days at $519.0 per day. Book direct at only $467.1 per day and TMR make an extra $74.7. Commission = $8.3
+
+344) Res #2299331 - 2 days at $519.0 per day. Book direct at only $467.1 per day and TMR make an extra $74.7. Commission = $8.3
+
+345) Res #2290082 - 2 days at $519.0 per day. Book direct at only $467.1 per day and TMR make an extra $74.7. Commission = $8.3
+
+346) Res #2281064 - 2 days at $519.0 per day. Book direct at only $467.1 per day and TMR make an extra $74.7. Commission = $8.3
+
+347) Res #2275807 - 2 days at $519.0 per day. Book direct at only $467.1 per day and TMR make an extra $74.7. Commission = $8.3
+
+348) Res #2214815 - 2 days at $519.0 per day. Book direct at only $467.1 per day and TMR make an extra $74.7. Commission = $8.3
+
+349) Res #2278273 - 2 days at $512.1 per day. Book direct at only $460.89 per day and TMR make an extra $73.71. Commission = $8.19
+
+350) Res #2268788 - 2 days at $512.1 per day. Book direct at only $460.89 per day and TMR make an extra $73.71. Commission = $8.19
+
+351) Res #2030157 - 2 days at $503.1 per day. Book direct at only $452.79 per day and TMR make an extra $72.45. Commission = $8.05
+
+352) Res #2030142 - 2 days at $503.1 per day. Book direct at only $452.79 per day and TMR make an extra $72.45. Commission = $8.05
+
+353) Res #2349822 - 4 days at $251.1 per day. Book direct at only $225.99 per day and TMR make an extra $72.36. Commission = $8.04
+
+354) Res #2373228 - 2 days at $499.0 per day. Book direct at only $449.1 per day and TMR make an extra $71.82. Commission = $7.98
+
+355) Res #2364492 - 2 days at $499.0 per day. Book direct at only $449.1 per day and TMR make an extra $71.82. Commission = $7.98
+
+356) Res #2359545 - 2 days at $499.0 per day. Book direct at only $449.1 per day and TMR make an extra $71.82. Commission = $7.98
+
+357) Res #2343238 - 2 days at $499.0 per day. Book direct at only $449.1 per day and TMR make an extra $71.82. Commission = $7.98
+
+358) Res #2332005 - 2 days at $499.0 per day. Book direct at only $449.1 per day and TMR make an extra $71.82. Commission = $7.98
+
+359) Res #2303179 - 2 days at $499.0 per day. Book direct at only $449.1 per day and TMR make an extra $71.82. Commission = $7.98
+
+360) Res #2296040 - 2 days at $499.0 per day. Book direct at only $449.1 per day and TMR make an extra $71.82. Commission = $7.98
+
+361) Res #2290085 - 2 days at $499.0 per day. Book direct at only $449.1 per day and TMR make an extra $71.82. Commission = $7.98
+
+362) Res #2289050 - 2 days at $499.0 per day. Book direct at only $449.1 per day and TMR make an extra $71.82. Commission = $7.98
+
+363) Res #2268550 - 2 days at $499.0 per day. Book direct at only $449.1 per day and TMR make an extra $71.82. Commission = $7.98
+
+364) Res #2215527 - 3 days at $332.1 per day. Book direct at only $298.89 per day and TMR make an extra $71.73. Commission = $7.97
+
+365) Res #2214122 - 3 days at $332.1 per day. Book direct at only $298.89 per day and TMR make an extra $71.73. Commission = $7.97
+
+366) Res #2179876 - 3 days at $332.1 per day. Book direct at only $298.89 per day and TMR make an extra $71.73. Commission = $7.97
+
+367) Res #2281216 - 3 days at $331.55 per day. Book direct at only $298.4 per day and TMR make an extra $71.64. Commission = $7.96
+
+368) Res #2281210 - 3 days at $331.55 per day. Book direct at only $298.4 per day and TMR make an extra $71.64. Commission = $7.96
+
+369) Res #2313131 - 2 days at $494.1 per day. Book direct at only $444.69 per day and TMR make an extra $71.19. Commission = $7.91
+
+370) Res #2303021 - 2 days at $494.1 per day. Book direct at only $444.69 per day and TMR make an extra $71.19. Commission = $7.91
+
+371) Res #2290847 - 2 days at $494.1 per day. Book direct at only $444.69 per day and TMR make an extra $71.19. Commission = $7.91
+
+372) Res #2209852 - 2 days at $494.1 per day. Book direct at only $444.69 per day and TMR make an extra $71.19. Commission = $7.91
+
+373) Res #2371216 - 2 days at $493.05 per day. Book direct at only $443.75 per day and TMR make an extra $71.01. Commission = $7.89
+
+374) Res #2347854 - 2 days at $479.0 per day. Book direct at only $431.1 per day and TMR make an extra $68.94. Commission = $7.66
+
+375) Res #2244825 - 2 days at $479.0 per day. Book direct at only $431.1 per day and TMR make an extra $68.94. Commission = $7.66
+
+376) Res #2334937 - 3 days at $319.0 per day. Book direct at only $287.1 per day and TMR make an extra $68.94. Commission = $7.66
+
+377) Res #2315610 - 2 days at $476.1 per day. Book direct at only $428.49 per day and TMR make an extra $68.58. Commission = $7.62
+
+378) Res #2313179 - 2 days at $476.1 per day. Book direct at only $428.49 per day and TMR make an extra $68.58. Commission = $7.62
+
+379) Res #2310038 - 2 days at $476.1 per day. Book direct at only $428.49 per day and TMR make an extra $68.58. Commission = $7.62
+
+380) Res #2275723 - 2 days at $476.1 per day. Book direct at only $428.49 per day and TMR make an extra $68.58. Commission = $7.62
+
+381) Res #2375053 - 2 days at $475.15 per day. Book direct at only $427.63 per day and TMR make an extra $68.4. Commission = $7.6
+
+382) Res #2310957 - 2 days at $474.05 per day. Book direct at only $426.65 per day and TMR make an extra $68.22. Commission = $7.58
+
+383) Res #2300456 - 2 days at $474.05 per day. Book direct at only $426.65 per day and TMR make an extra $68.22. Commission = $7.58
+
+384) Res #2288347 - 2 days at $474.05 per day. Book direct at only $426.65 per day and TMR make an extra $68.22. Commission = $7.58
+
+385) Res #2221868 - 2 days at $474.05 per day. Book direct at only $426.65 per day and TMR make an extra $68.22. Commission = $7.58
+
+386) Res #2173010 - 2 days at $474.05 per day. Book direct at only $426.65 per day and TMR make an extra $68.22. Commission = $7.58
+
+387) Res #2331478 - 3 days at $314.1 per day. Book direct at only $282.69 per day and TMR make an extra $67.86. Commission = $7.54
+
+388) Res #2326154 - 3 days at $314.1 per day. Book direct at only $282.69 per day and TMR make an extra $67.86. Commission = $7.54
+
+389) Res #2321683 - 3 days at $314.1 per day. Book direct at only $282.69 per day and TMR make an extra $67.86. Commission = $7.54
+
+390) Res #2321672 - 3 days at $314.1 per day. Book direct at only $282.69 per day and TMR make an extra $67.86. Commission = $7.54
+
+391) Res #2290117 - 3 days at $314.1 per day. Book direct at only $282.69 per day and TMR make an extra $67.86. Commission = $7.54
+
+392) Res #2290001 - 3 days at $314.1 per day. Book direct at only $282.69 per day and TMR make an extra $67.86. Commission = $7.54
+
+393) Res #2257070 - 3 days at $314.1 per day. Book direct at only $282.69 per day and TMR make an extra $67.86. Commission = $7.54
+
+394) Res #2241630 - 3 days at $314.1 per day. Book direct at only $282.69 per day and TMR make an extra $67.86. Commission = $7.54
+
+395) Res #2233744 - 3 days at $314.1 per day. Book direct at only $282.69 per day and TMR make an extra $67.86. Commission = $7.54
+
+396) Res #2232137 - 3 days at $314.1 per day. Book direct at only $282.69 per day and TMR make an extra $67.86. Commission = $7.54
+
+397) Res #2217343 - 3 days at $314.1 per day. Book direct at only $282.69 per day and TMR make an extra $67.86. Commission = $7.54
+
+398) Res #2191810 - 3 days at $314.1 per day. Book direct at only $282.69 per day and TMR make an extra $67.86. Commission = $7.54
+
+399) Res #2191808 - 3 days at $314.1 per day. Book direct at only $282.69 per day and TMR make an extra $67.86. Commission = $7.54
+
+400) Res #2191806 - 3 days at $314.1 per day. Book direct at only $282.69 per day and TMR make an extra $67.86. Commission = $7.54
+
+401) Res #2191803 - 3 days at $314.1 per day. Book direct at only $282.69 per day and TMR make an extra $67.86. Commission = $7.54
+
+402) Res #2191800 - 3 days at $314.1 per day. Book direct at only $282.69 per day and TMR make an extra $67.86. Commission = $7.54
+
+403) Res #2145033 - 3 days at $314.1 per day. Book direct at only $282.69 per day and TMR make an extra $67.86. Commission = $7.54
+
+404) Res #2145032 - 3 days at $314.1 per day. Book direct at only $282.69 per day and TMR make an extra $67.86. Commission = $7.54
+
+405) Res #2145027 - 3 days at $314.1 per day. Book direct at only $282.69 per day and TMR make an extra $67.86. Commission = $7.54
+
+406) Res #2202404 - 2 days at $464.55 per day. Book direct at only $418.1 per day and TMR make an extra $66.87. Commission = $7.43
+
+407) Res #2244624 - 3 days at $306.25 per day. Book direct at only $275.62 per day and TMR make an extra $66.15. Commission = $7.35
+
+408) Res #2363284 - 4 days at $229.0 per day. Book direct at only $206.1 per day and TMR make an extra $65.97. Commission = $7.33
+
+409) Res #2343250 - 2 days at $449.1 per day. Book direct at only $404.19 per day and TMR make an extra $64.71. Commission = $7.19
+
+410) Res #2333877 - 3 days at $299.0 per day. Book direct at only $269.1 per day and TMR make an extra $64.62. Commission = $7.18
+
+411) Res #2092514 - 3 days at $299.0 per day. Book direct at only $269.1 per day and TMR make an extra $64.62. Commission = $7.18
+
+412) Res #2266266 - 6 days at $149.0 per day. Book direct at only $134.1 per day and TMR make an extra $64.35. Commission = $7.15
+
+413) Res #2354149 - 2 days at $440.1 per day. Book direct at only $396.09 per day and TMR make an extra $63.36. Commission = $7.04
+
+414) Res #2318594 - 2 days at $440.1 per day. Book direct at only $396.09 per day and TMR make an extra $63.36. Commission = $7.04
+
+415) Res #2133731 - 2 days at $440.1 per day. Book direct at only $396.09 per day and TMR make an extra $63.36. Commission = $7.04
+
+416) Res #2375967 - 2 days at $439.0 per day. Book direct at only $395.1 per day and TMR make an extra $63.18. Commission = $7.02
+
+417) Res #2345659 - 2 days at $439.0 per day. Book direct at only $395.1 per day and TMR make an extra $63.18. Commission = $7.02
+
+418) Res #2336772 - 2 days at $439.0 per day. Book direct at only $395.1 per day and TMR make an extra $63.18. Commission = $7.02
+
+419) Res #2244332 - 2 days at $439.0 per day. Book direct at only $395.1 per day and TMR make an extra $63.18. Commission = $7.02
+
+420) Res #2352807 - 4 days at $219.0 per day. Book direct at only $197.1 per day and TMR make an extra $63.09. Commission = $7.01
+
+421) Res #2352798 - 4 days at $219.0 per day. Book direct at only $197.1 per day and TMR make an extra $63.09. Commission = $7.01
+
+422) Res #2362606 - 2 days at $419.0 per day. Book direct at only $377.1 per day and TMR make an extra $60.3. Commission = $6.7
+
+423) Res #2358928 - 2 days at $419.0 per day. Book direct at only $377.1 per day and TMR make an extra $60.3. Commission = $6.7
+
+424) Res #2328637 - 2 days at $419.0 per day. Book direct at only $377.1 per day and TMR make an extra $60.3. Commission = $6.7
+
+425) Res #2221108 - 3 days at $279.0 per day. Book direct at only $251.1 per day and TMR make an extra $60.3. Commission = $6.7
+
+426) Res #2340757 - 2 days at $404.1 per day. Book direct at only $363.69 per day and TMR make an extra $58.23. Commission = $6.47
+
+427) Res #2278978 - 2 days at $404.1 per day. Book direct at only $363.69 per day and TMR make an extra $58.23. Commission = $6.47
+
+428) Res #2278975 - 2 days at $404.1 per day. Book direct at only $363.69 per day and TMR make an extra $58.23. Commission = $6.47
+
+429) Res #2222865 - 3 days at $269.1 per day. Book direct at only $242.19 per day and TMR make an extra $58.14. Commission = $6.46
+
+430) Res #2211324 - 3 days at $269.1 per day. Book direct at only $242.19 per day and TMR make an extra $58.14. Commission = $6.46
+
+431) Res #2208927 - 3 days at $269.1 per day. Book direct at only $242.19 per day and TMR make an extra $58.14. Commission = $6.46
+
+432) Res #2103162 - 3 days at $269.1 per day. Book direct at only $242.19 per day and TMR make an extra $58.14. Commission = $6.46
+
+433) Res #2080144 - 3 days at $269.1 per day. Book direct at only $242.19 per day and TMR make an extra $58.14. Commission = $6.46
+
+434) Res #2330806 - 4 days at $201.75 per day. Book direct at only $181.58 per day and TMR make an extra $58.14. Commission = $6.46
+
+435) Res #2375907 - 3 days at $265.05 per day. Book direct at only $238.55 per day and TMR make an extra $57.24. Commission = $6.36
+
+436) Res #2210934 - 3 days at $261.75 per day. Book direct at only $235.58 per day and TMR make an extra $56.52. Commission = $6.28
+
+437) Res #2298635 - 2 days at $389.3 per day. Book direct at only $350.37 per day and TMR make an extra $56.07. Commission = $6.23
+
+438) Res #2352975 - 3 days at $251.1 per day. Book direct at only $225.99 per day and TMR make an extra $54.27. Commission = $6.03
+
+439) Res #2317511 - 3 days at $251.1 per day. Book direct at only $225.99 per day and TMR make an extra $54.27. Commission = $6.03
+
+440) Res #2288430 - 3 days at $251.1 per day. Book direct at only $225.99 per day and TMR make an extra $54.27. Commission = $6.03
+
+441) Res #2236792 - 3 days at $251.1 per day. Book direct at only $225.99 per day and TMR make an extra $54.27. Commission = $6.03
+
+442) Res #2340684 - 3 days at $249.0 per day. Book direct at only $224.1 per day and TMR make an extra $53.82. Commission = $5.98
+
+443) Res #2254911 - 2 days at $369.55 per day. Book direct at only $332.6 per day and TMR make an extra $53.19. Commission = $5.91
+
+444) Res #2274827 - 2 days at $369.0 per day. Book direct at only $332.1 per day and TMR make an extra $53.1. Commission = $5.9
+
+445) Res #2248524 - 2 days at $369.0 per day. Book direct at only $332.1 per day and TMR make an extra $53.1. Commission = $5.9
+
+446) Res #2213757 - 2 days at $369.0 per day. Book direct at only $332.1 per day and TMR make an extra $53.1. Commission = $5.9
+
+447) Res #2374119 - 2 days at $349.0 per day. Book direct at only $314.1 per day and TMR make an extra $50.22. Commission = $5.58
+
+448) Res #2366079 - 2 days at $349.0 per day. Book direct at only $314.1 per day and TMR make an extra $50.22. Commission = $5.58
+
+449) Res #2361530 - 2 days at $349.0 per day. Book direct at only $314.1 per day and TMR make an extra $50.22. Commission = $5.58
+
+450) Res #2360602 - 2 days at $349.0 per day. Book direct at only $314.1 per day and TMR make an extra $50.22. Commission = $5.58
+
+451) Res #2331927 - 2 days at $349.0 per day. Book direct at only $314.1 per day and TMR make an extra $50.22. Commission = $5.58
+
+452) Res #2316036 - 2 days at $349.0 per day. Book direct at only $314.1 per day and TMR make an extra $50.22. Commission = $5.58
+
+453) Res #2312318 - 2 days at $349.0 per day. Book direct at only $314.1 per day and TMR make an extra $50.22. Commission = $5.58
+
+454) Res #2306655 - 2 days at $349.0 per day. Book direct at only $314.1 per day and TMR make an extra $50.22. Commission = $5.58
+
+455) Res #2305662 - 2 days at $349.0 per day. Book direct at only $314.1 per day and TMR make an extra $50.22. Commission = $5.58
+
+456) Res #2298693 - 2 days at $349.0 per day. Book direct at only $314.1 per day and TMR make an extra $50.22. Commission = $5.58
+
+457) Res #2297874 - 2 days at $349.0 per day. Book direct at only $314.1 per day and TMR make an extra $50.22. Commission = $5.58
+
+458) Res #2273551 - 2 days at $349.0 per day. Book direct at only $314.1 per day and TMR make an extra $50.22. Commission = $5.58
+
+459) Res #2273550 - 2 days at $349.0 per day. Book direct at only $314.1 per day and TMR make an extra $50.22. Commission = $5.58
+
+460) Res #2273548 - 2 days at $349.0 per day. Book direct at only $314.1 per day and TMR make an extra $50.22. Commission = $5.58
+
+461) Res #2273546 - 2 days at $349.0 per day. Book direct at only $314.1 per day and TMR make an extra $50.22. Commission = $5.58
+
+462) Res #2273541 - 2 days at $349.0 per day. Book direct at only $314.1 per day and TMR make an extra $50.22. Commission = $5.58
+
+463) Res #2269043 - 2 days at $349.0 per day. Book direct at only $314.1 per day and TMR make an extra $50.22. Commission = $5.58
+
+464) Res #2257063 - 2 days at $349.0 per day. Book direct at only $314.1 per day and TMR make an extra $50.22. Commission = $5.58
+
+465) Res #2253049 - 2 days at $349.0 per day. Book direct at only $314.1 per day and TMR make an extra $50.22. Commission = $5.58
+
+466) Res #2248518 - 2 days at $349.0 per day. Book direct at only $314.1 per day and TMR make an extra $50.22. Commission = $5.58
+
+467) Res #2248512 - 2 days at $349.0 per day. Book direct at only $314.1 per day and TMR make an extra $50.22. Commission = $5.58
+
+468) Res #2244330 - 2 days at $349.0 per day. Book direct at only $314.1 per day and TMR make an extra $50.22. Commission = $5.58
+
+469) Res #2244328 - 2 days at $349.0 per day. Book direct at only $314.1 per day and TMR make an extra $50.22. Commission = $5.58
+
+470) Res #2239142 - 2 days at $349.0 per day. Book direct at only $314.1 per day and TMR make an extra $50.22. Commission = $5.58
+
+471) Res #2226895 - 2 days at $349.0 per day. Book direct at only $314.1 per day and TMR make an extra $50.22. Commission = $5.58
+
+472) Res #2163432 - 2 days at $349.0 per day. Book direct at only $314.1 per day and TMR make an extra $50.22. Commission = $5.58
+
+473) Res #2363269 - 2 days at $331.55 per day. Book direct at only $298.4 per day and TMR make an extra $47.7. Commission = $5.3
+
+474) Res #2288353 - 2 days at $331.55 per day. Book direct at only $298.4 per day and TMR make an extra $47.7. Commission = $5.3
+
+475) Res #2277369 - 2 days at $331.55 per day. Book direct at only $298.4 per day and TMR make an extra $47.7. Commission = $5.3
+
+476) Res #2363297 - 4 days at $160.55 per day. Book direct at only $144.5 per day and TMR make an extra $46.26. Commission = $5.14
+
+477) Res #2028886 - 2 days at $319.0 per day. Book direct at only $287.1 per day and TMR make an extra $45.9. Commission = $5.1
+
+478) Res #2374821 - 2 days at $314.1 per day. Book direct at only $282.69 per day and TMR make an extra $45.27. Commission = $5.03
+
+479) Res #2359464 - 2 days at $314.1 per day. Book direct at only $282.69 per day and TMR make an extra $45.27. Commission = $5.03
+
+480) Res #2339352 - 2 days at $314.1 per day. Book direct at only $282.69 per day and TMR make an extra $45.27. Commission = $5.03
+
+481) Res #2330338 - 2 days at $314.1 per day. Book direct at only $282.69 per day and TMR make an extra $45.27. Commission = $5.03
+
+482) Res #2329108 - 2 days at $314.1 per day. Book direct at only $282.69 per day and TMR make an extra $45.27. Commission = $5.03
+
+483) Res #2326426 - 2 days at $314.1 per day. Book direct at only $282.69 per day and TMR make an extra $45.27. Commission = $5.03
+
+484) Res #2318110 - 2 days at $314.1 per day. Book direct at only $282.69 per day and TMR make an extra $45.27. Commission = $5.03
+
+485) Res #2312815 - 2 days at $314.1 per day. Book direct at only $282.69 per day and TMR make an extra $45.27. Commission = $5.03
+
+486) Res #2297473 - 2 days at $314.1 per day. Book direct at only $282.69 per day and TMR make an extra $45.27. Commission = $5.03
+
+487) Res #2296046 - 2 days at $314.1 per day. Book direct at only $282.69 per day and TMR make an extra $45.27. Commission = $5.03
+
+488) Res #2290873 - 2 days at $314.1 per day. Book direct at only $282.69 per day and TMR make an extra $45.27. Commission = $5.03
+
+489) Res #2290065 - 2 days at $314.1 per day. Book direct at only $282.69 per day and TMR make an extra $45.27. Commission = $5.03
+
+490) Res #2288454 - 2 days at $314.1 per day. Book direct at only $282.69 per day and TMR make an extra $45.27. Commission = $5.03
+
+491) Res #2287597 - 2 days at $314.1 per day. Book direct at only $282.69 per day and TMR make an extra $45.27. Commission = $5.03
+
+492) Res #2286099 - 2 days at $314.1 per day. Book direct at only $282.69 per day and TMR make an extra $45.27. Commission = $5.03
+
+493) Res #2281442 - 2 days at $314.1 per day. Book direct at only $282.69 per day and TMR make an extra $45.27. Commission = $5.03
+
+494) Res #2281438 - 2 days at $314.1 per day. Book direct at only $282.69 per day and TMR make an extra $45.27. Commission = $5.03
+
+495) Res #2280883 - 2 days at $314.1 per day. Book direct at only $282.69 per day and TMR make an extra $45.27. Commission = $5.03
+
+496) Res #2278280 - 2 days at $314.1 per day. Book direct at only $282.69 per day and TMR make an extra $45.27. Commission = $5.03
+
+497) Res #2276191 - 2 days at $314.1 per day. Book direct at only $282.69 per day and TMR make an extra $45.27. Commission = $5.03
+
+498) Res #2275676 - 2 days at $314.1 per day. Book direct at only $282.69 per day and TMR make an extra $45.27. Commission = $5.03
+
+499) Res #2260444 - 2 days at $314.1 per day. Book direct at only $282.69 per day and TMR make an extra $45.27. Commission = $5.03
+
+500) Res #2253338 - 2 days at $314.1 per day. Book direct at only $282.69 per day and TMR make an extra $45.27. Commission = $5.03
+
+501) Res #2251402 - 2 days at $314.1 per day. Book direct at only $282.69 per day and TMR make an extra $45.27. Commission = $5.03
+
+502) Res #2244561 - 2 days at $314.1 per day. Book direct at only $282.69 per day and TMR make an extra $45.27. Commission = $5.03
+
+503) Res #2240589 - 2 days at $314.1 per day. Book direct at only $282.69 per day and TMR make an extra $45.27. Commission = $5.03
+
+504) Res #1862009 - 2 days at $299.0 per day. Book direct at only $269.1 per day and TMR make an extra $43.02. Commission = $4.78
+
+505) Res #2339043 - 3 days at $199.0 per day. Book direct at only $179.1 per day and TMR make an extra $43.02. Commission = $4.78
+
+506) Res #2229876 - 1 days at $589.0 per day. Book direct at only $530.1 per day and TMR make an extra $42.39. Commission = $4.71
+
+507) Res #2375932 - 1 days at $579.0 per day. Book direct at only $521.1 per day and TMR make an extra $41.67. Commission = $4.63
+
+508) Res #2372886 - 1 days at $579.0 per day. Book direct at only $521.1 per day and TMR make an extra $41.67. Commission = $4.63
+
+509) Res #2309996 - 1 days at $579.0 per day. Book direct at only $521.1 per day and TMR make an extra $41.67. Commission = $4.63
+
+510) Res #2337439 - 3 days at $189.0 per day. Book direct at only $170.1 per day and TMR make an extra $40.86. Commission = $4.54
+
+511) Res #2247383 - 1 days at $566.1 per day. Book direct at only $509.49 per day and TMR make an extra $40.77. Commission = $4.53
+
+512) Res #2364266 - 1 days at $559.0 per day. Book direct at only $503.1 per day and TMR make an extra $40.23. Commission = $4.47
+
+513) Res #2375939 - 1 days at $539.0 per day. Book direct at only $485.1 per day and TMR make an extra $38.79. Commission = $4.31
+
+514) Res #2374266 - 1 days at $539.0 per day. Book direct at only $485.1 per day and TMR make an extra $38.79. Commission = $4.31
+
+515) Res #2370764 - 1 days at $539.0 per day. Book direct at only $485.1 per day and TMR make an extra $38.79. Commission = $4.31
+
+516) Res #2370354 - 1 days at $539.0 per day. Book direct at only $485.1 per day and TMR make an extra $38.79. Commission = $4.31
+
+517) Res #2368932 - 1 days at $539.0 per day. Book direct at only $485.1 per day and TMR make an extra $38.79. Commission = $4.31
+
+518) Res #2368855 - 1 days at $539.0 per day. Book direct at only $485.1 per day and TMR make an extra $38.79. Commission = $4.31
+
+519) Res #2341339 - 1 days at $539.0 per day. Book direct at only $485.1 per day and TMR make an extra $38.79. Commission = $4.31
+
+520) Res #2092795 - 2 days at $269.1 per day. Book direct at only $242.19 per day and TMR make an extra $38.79. Commission = $4.31
+
+521) Res #2370255 - 1 days at $530.1 per day. Book direct at only $477.09 per day and TMR make an extra $38.16. Commission = $4.24
+
+522) Res #2376260 - 1 days at $529.0 per day. Book direct at only $476.1 per day and TMR make an extra $38.07. Commission = $4.23
+
+523) Res #2365800 - 1 days at $519.0 per day. Book direct at only $467.1 per day and TMR make an extra $37.35. Commission = $4.15
+
+524) Res #2373549 - 1 days at $512.0 per day. Book direct at only $460.8 per day and TMR make an extra $36.9. Commission = $4.1
+
+525) Res #2375329 - 2 days at $251.1 per day. Book direct at only $225.99 per day and TMR make an extra $36.18. Commission = $4.02
+
+526) Res #2359026 - 2 days at $251.1 per day. Book direct at only $225.99 per day and TMR make an extra $36.18. Commission = $4.02
+
+527) Res #2358304 - 2 days at $251.1 per day. Book direct at only $225.99 per day and TMR make an extra $36.18. Commission = $4.02
+
+528) Res #2336673 - 2 days at $251.1 per day. Book direct at only $225.99 per day and TMR make an extra $36.18. Commission = $4.02
+
+529) Res #2330812 - 2 days at $251.1 per day. Book direct at only $225.99 per day and TMR make an extra $36.18. Commission = $4.02
+
+530) Res #2326970 - 2 days at $251.1 per day. Book direct at only $225.99 per day and TMR make an extra $36.18. Commission = $4.02
+
+531) Res #2290071 - 2 days at $251.1 per day. Book direct at only $225.99 per day and TMR make an extra $36.18. Commission = $4.02
+
+532) Res #2288089 - 2 days at $251.1 per day. Book direct at only $225.99 per day and TMR make an extra $36.18. Commission = $4.02
+
+533) Res #2275725 - 2 days at $251.1 per day. Book direct at only $225.99 per day and TMR make an extra $36.18. Commission = $4.02
+
+534) Res #2269046 - 2 days at $251.1 per day. Book direct at only $225.99 per day and TMR make an extra $36.18. Commission = $4.02
+
+535) Res #2239684 - 2 days at $251.1 per day. Book direct at only $225.99 per day and TMR make an extra $36.18. Commission = $4.02
+
+536) Res #2214996 - 2 days at $251.1 per day. Book direct at only $225.99 per day and TMR make an extra $36.18. Commission = $4.02
+
+537) Res #2133733 - 2 days at $251.1 per day. Book direct at only $225.99 per day and TMR make an extra $36.18. Commission = $4.02
+
+538) Res #2371218 - 1 days at $499.0 per day. Book direct at only $449.1 per day and TMR make an extra $35.91. Commission = $3.99
+
+539) Res #2375956 - 1 days at $479.0 per day. Book direct at only $431.1 per day and TMR make an extra $34.47. Commission = $3.83
+
+540) Res #2374887 - 1 days at $476.1 per day. Book direct at only $428.49 per day and TMR make an extra $34.29. Commission = $3.81
+
+541) Res #2340140 - 1 days at $476.1 per day. Book direct at only $428.49 per day and TMR make an extra $34.29. Commission = $3.81
+
+542) Res #2336788 - 1 days at $476.1 per day. Book direct at only $428.49 per day and TMR make an extra $34.29. Commission = $3.81
+
+543) Res #2332791 - 1 days at $476.1 per day. Book direct at only $428.49 per day and TMR make an extra $34.29. Commission = $3.81
+
+544) Res #2256960 - 1 days at $476.1 per day. Book direct at only $428.49 per day and TMR make an extra $34.29. Commission = $3.81
+
+545) Res #2375878 - 1 days at $469.0 per day. Book direct at only $422.1 per day and TMR make an extra $33.75. Commission = $3.75
+
+546) Res #2313233 - 3 days at $149.0 per day. Book direct at only $134.1 per day and TMR make an extra $32.22. Commission = $3.58
+
+547) Res #2327038 - 1 days at $440.1 per day. Book direct at only $396.09 per day and TMR make an extra $31.68. Commission = $3.52
+
+548) Res #2327034 - 1 days at $440.1 per day. Book direct at only $396.09 per day and TMR make an extra $31.68. Commission = $3.52
+
+549) Res #2364429 - 1 days at $439.0 per day. Book direct at only $395.1 per day and TMR make an extra $31.59. Commission = $3.51
+
+550) Res #2333971 - 1 days at $399.0 per day. Book direct at only $359.1 per day and TMR make an extra $28.71. Commission = $3.19
+
+551) Res #2273168 - 1 days at $381.75 per day. Book direct at only $343.57 per day and TMR make an extra $27.45. Commission = $3.05
+
+552) Res #2273167 - 1 days at $381.75 per day. Book direct at only $343.57 per day and TMR make an extra $27.45. Commission = $3.05
+
+553) Res #2371154 - 2 days at $189.0 per day. Book direct at only $170.1 per day and TMR make an extra $27.18. Commission = $3.02
+
+554) Res #2376262 - 1 days at $349.0 per day. Book direct at only $314.1 per day and TMR make an extra $25.11. Commission = $2.79
+
+555) Res #2369503 - 1 days at $349.0 per day. Book direct at only $314.1 per day and TMR make an extra $25.11. Commission = $2.79
+
+556) Res #2332162 - 2 days at $169.0 per day. Book direct at only $152.1 per day and TMR make an extra $24.3. Commission = $2.7
+
+557) Res #2375779 - 1 days at $314.1 per day. Book direct at only $282.69 per day and TMR make an extra $22.59. Commission = $2.51
+
+558) Res #2375772 - 1 days at $314.1 per day. Book direct at only $282.69 per day and TMR make an extra $22.59. Commission = $2.51
+
+559) Res #2370220 - 1 days at $314.1 per day. Book direct at only $282.69 per day and TMR make an extra $22.59. Commission = $2.51
+
+560) Res #2370217 - 1 days at $314.1 per day. Book direct at only $282.69 per day and TMR make an extra $22.59. Commission = $2.51
+
+561) Res #2370213 - 1 days at $314.1 per day. Book direct at only $282.69 per day and TMR make an extra $22.59. Commission = $2.51
+
+562) Res #2345326 - 2 days at $149.0 per day. Book direct at only $134.1 per day and TMR make an extra $21.42. Commission = $2.38
+
+563) Res #2326152 - 2 days at $149.0 per day. Book direct at only $134.1 per day and TMR make an extra $21.42. Commission = $2.38
+
+564) Res #2326149 - 2 days at $149.0 per day. Book direct at only $134.1 per day and TMR make an extra $21.42. Commission = $2.38
+
+565) Res #2363036 - 1 days at $279.0 per day. Book direct at only $251.1 per day and TMR make an extra $20.07. Commission = $2.23
+
+566) Res #2333975 - 1 days at $269.0 per day. Book direct at only $242.1 per day and TMR make an extra $19.35. Commission = $2.15
+
+567) Res #2375226 - 2 days at $134.1 per day. Book direct at only $120.69 per day and TMR make an extra $19.35. Commission = $2.15
+
+568) Res #2369539 - 2 days at $134.1 per day. Book direct at only $120.69 per day and TMR make an extra $19.35. Commission = $2.15
+
+569) Res #2353876 - 2 days at $134.1 per day. Book direct at only $120.69 per day and TMR make an extra $19.35. Commission = $2.15
+
+570) Res #2371785 - 1 days at $251.1 per day. Book direct at only $225.99 per day and TMR make an extra $18.09. Commission = $2.01
+
+571) Res #2361507 - 1 days at $251.1 per day. Book direct at only $225.99 per day and TMR make an extra $18.09. Commission = $2.01
+
+572) Res #2330278 - 1 days at $251.1 per day. Book direct at only $225.99 per day and TMR make an extra $18.09. Commission = $2.01
+
+573) Res #2258200 - 1 days at $251.1 per day. Book direct at only $225.99 per day and TMR make an extra $18.09. Commission = $2.01
+
+574) Res #2253370 - 1 days at $251.1 per day. Book direct at only $225.99 per day and TMR make an extra $18.09. Commission = $2.01
+

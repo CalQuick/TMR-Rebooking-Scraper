@@ -1,8 +1,11 @@
 import os, sys, pprint, re, datetime
 
+'''Scans any txt file in the same directory for the information unique to the hotel (booking number, dates staying etc.) and outputs file'''
+
 months = ('Jan', 'Feb', 'March', 'April', 'May', 'June', 'July', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec')
 
 thisfile = os.path.basename(sys.argv[0])
+
 #2371218 07/20/2018 07/21/2018 - is an example of the information to search for
 datesRegex = re.compile(r'(\d{7}) (\d\d/\d\d/\d\d\d\d) (\d\d/\d\d/\d\d\d\d) .* (\d{2,4}\.\d\d)')
 
